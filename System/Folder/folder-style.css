@@ -1,0 +1,14 @@
+.folder {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	position: absolute;
+	user-select: none;
+	text-align: center;
+}
+
+.folder-icon {
+	width: 100%;
+	margin: 8px;
+	height: calc(100% - 2rem);
+}

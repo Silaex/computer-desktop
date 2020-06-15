@@ -1,0 +1,10 @@
+#tooltip {
+	position: absolute;
+	max-width: 200px;
+	background: white;
+	border: solid var(--black) 2px;
+	z-index: 10000;
+	user-select: none;
+	padding: 2px 8px;
+	animation: fade-in .5s;
+}
